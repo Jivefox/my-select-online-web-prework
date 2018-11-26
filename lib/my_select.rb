@@ -9,3 +9,8 @@ end
 end
   new_selection
 end
+
+
+my_select(nums) do |num|
+   num.even?
+    end)
